@@ -1,0 +1,33 @@
+{
+  "name": "js-tree-lib",
+  "version": "1.0.0",
+  "description": "A utility library for manipulating hierarchical tree structures in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "test:medium": "node test-medium.js",
+    "test:all": "node test.js && node test-medium.js"
+  },
+  "keywords": [
+    "tree",
+    "data-structure",
+    "hierarchical",
+    "nested",
+    "recursive",
+    "tree-manipulation",
+    "utilities"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/js-tree-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/js-tree-lib/issues"
+  },
+  "homepage": "https://github.com/yourusername/js-tree-lib#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
